@@ -1,3 +1,3 @@
-# challenge_alura_store.ipynb
+# challenge_alura_store
 
 Les presento mi Challenge Alura Store
